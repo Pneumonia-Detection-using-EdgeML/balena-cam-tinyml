@@ -2,6 +2,8 @@
 
 This guide will help you deploy an image classification system running on a Raspberry Pi. [Edge Impulse](https://edgeimpulse.com) enables developers to create intelligent device solutions with embedded Machine Learning. You will learn how to easily acquire image samples using your smartphone, train your ML algorithm and deploy the inference engine on your device. [BalenaCloud](https://balena.io) is a container-based platform for deploying IoT applications.
 
+
+[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Pneumonia-Detection-using-EdgeML/balena-cam-tinyml)
 ## Overview
 
 ![Shoes](images/shoes.gif)
@@ -87,7 +89,6 @@ You can download the WebAssembly on your computer though the library will be aut
 
 Click on the following link to deploy the application to your Balena account:
 
-[![](https://balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy)
 
 Once your application has been deployed, click on *Service variable* and add the two following variables to the *edgeimpulse-inference* service:
 * EI_API_KEY

@@ -1,15 +1,15 @@
-name: "Image classification"
+name: "Pneumonia Detection"
 type: "sw.application"
-description: "Image classification on Raspberry Pi powered by balena and Edge Impulse Machine Learning."
+description: "Real-time Pnuemonia Detection by scanning X-Rays using Computer Vision on a Raspberry Pi."
 assets:
   repository:
     type: "blob.asset"
     data:
-      url: "https://github.com/edgeimpulse/balena-cam-tinyml"
+      url: "https://github.com/Pneumonia-Detection-using-EdgeML/balena-cam-tinyml"
   logo:
     type: "blob.asset"
     data:
-      url: "https://raw.githubusercontent.com/edgeimpulse/balena-cam-tinyml/master/logo.png"
+      url: "https://raw.githubusercontent.com/Pneumonia-Detection-using-EdgeML/balena-cam-tinyml/master/logo.png"
 data:
   applicationConfigVariables:
     - BALENA_HOST_CONFIG_start_x: 1

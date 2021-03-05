@@ -5,11 +5,11 @@ assets:
   repository:
     type: "blob.asset"
     data:
-      url: "https://github.com/Pneumonia-Detection-using-EdgeML/balena-cam-tinyml"
+      url: "https://github.com/Pneumonia-Detection-using-EdgeML/pneumonia-detection-balenaCAM"
   logo:
     type: "blob.asset"
     data:
-      url: "https://raw.githubusercontent.com/Pneumonia-Detection-using-EdgeML/balena-cam-tinyml/master/logo.png"
+      url: "https://raw.githubusercontent.com/Pneumonia-Detection-using-EdgeML/pneumonia-detection-balenaCAM/master/logo.png"
 data:
   applicationConfigVariables:
     - BALENA_HOST_CONFIG_start_x: 1

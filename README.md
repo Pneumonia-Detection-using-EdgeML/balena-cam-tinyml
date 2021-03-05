@@ -2,7 +2,6 @@
 
 This guide is a part of the series of deploying of the project [Pneumonia Detection using EdgeML](https://www.hackster.io/arijit_das_student/pneumonia-classification-detection-using-edgeml-991e18) on your Raspberry Pi using [balenaCloud](https://balena.io).
 
-[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Pneumonia-Detection-using-EdgeML/balena-cam-tinyml)
 ## Overview
 
 This project is based on the great [BalenaCam project](https://github.com/balenalabs/balena-cam) to live stream your camera's feed by running a webapp in a container. For our application we leverage the multi-containers feature of Balena by adding a second container running Edge Impulse webassembly inference engine inside a Node.js server. The 2 containers communicate with each other through a websocket. The `balena-cam` webapp has been modified to call the inference engine every second and display the results on the webpage.

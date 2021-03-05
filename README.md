@@ -26,7 +26,7 @@ This project is also based on the great [BalenaCam project](https://github.com/b
 
 Click on the *deploy-with-balena* button as given below, which will help you to deploy your application to balenaCloud and then to your Raspbery Pi in **one-click!**
 
-[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Pneumonia-Detection-using-EdgeML/pnuemonia-detection-balenaCAM)
+[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Pneumonia-Detection-using-EdgeML/pneumonia-detection-balenaCAM)
 
 ### Sign up to balenaCloud
 

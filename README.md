@@ -12,9 +12,19 @@ This project is also based on the great [BalenaCam project](https://github.com/b
 ## Getting started
 
 ### Hardware
+<table>
+<tr><td>
+<img height="24px" src="https://files.balena-cloud.com/images/fincm3/2.58.3%2Brev1.prod/logo.svg" alt="fincm3" style="max-width: 100%; margin: 0px 4px;"></td><td> balenaFin</td>
+</tr>
+<tr><td>
+<img height="24px" src="https://files.balena-cloud.com/images/raspberrypi3/2.58.3%2Brev1.prod/logo.svg" alt="raspberrypi3" style="max-width: 100%; margin: 0px 4px;"></td><td>Raspberry Pi 3 Model B+</td>
+</tr>
+<tr><td>
+<img height="24px" src="https://files.balena-cloud.com/images/raspberrypi4-64/2.65.0%2Brev1.prod/logo.svg" alt="raspberrypi4-64" style="max-width: 100%; margin: 0px 4px;"></td><td>Raspberry Pi 4 Model B</td>
+</tr>
+</table>
 
-* Raspberry Pi: [v3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) and [v4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) tested, [balenaFin v1.0](https://balena.io/fin) tested
-* [Raspberry Pi camera](https://www.raspberrypi.org/products/camera-module-v2/) or USB camera.
+ [Raspberry Pi camera](https://www.raspberrypi.org/products/camera-module-v2/) or USB camera.
 
 ### Software
 

@@ -9,6 +9,9 @@ AI-based pneumonia classifier using Edge Impulse model.
 
 This project is also based on the great [BalenaCam project](https://github.com/balenalabs/balena-cam) to live stream your camera's feed by running a webapp in a container. For this application we leverage the multi-containers feature of Balena by adding a second container running Edge Impulse webAssembly inference engine inside a Node.js server. The 2 containers communicate with each other through websockets. The `balena-cam` webapp has been modified to call the inference engine every second and display the results of the Pneumonia Classification expert on the webpage.
 
+## Disclaimer
+*This application is intended for informational, educational and research purposes only. It is not, and it is not intended, for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment or prevention of pneumonia. Health care providers should exercise their own independent clinical judgment when using this application in conjunction with patient care.*
+
 ## Getting started
 
 ### Hardware

@@ -1,6 +1,6 @@
 name: "Pneumonia Detection"
 type: "sw.application"
-description: "Real-time Pnuemonia Detection by scanning X-Rays using Computer Vision on a Raspberry Pi."
+description: "Real-time Pneumonia Detection by scanning X-Rays using Computer Vision on a Raspberry Pi."
 assets:
   repository:
     type: "blob.asset"

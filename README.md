@@ -96,3 +96,5 @@ BalenaCam advanced options are available in [this guide](BALENA-OPTIONS.md).
 - **Firefox** (but see note above)
 - **Safari**
 - **Edge** (only mjpeg stream)
+
+#### Check out our Hackster article [here](https://bit.ly/2NzfFcA)

@@ -19,5 +19,6 @@ data:
   defaultDeviceType: "raspberrypi4-64"
   supportedDeviceTypes:    
     - "raspberrypi3"
+    - "raspberrypi3-64"
     - "raspberrypi4-64"
     - "fincm3"

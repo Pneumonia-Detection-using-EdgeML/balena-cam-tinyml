@@ -23,7 +23,7 @@ This project is also based on the great [BalenaCam project](https://github.com/b
 <img height="24px" src="https://files.balena-cloud.com/images/raspberrypi3/2.58.3%2Brev1.prod/logo.svg" alt="raspberrypi3" style="max-width: 100%; margin: 0px 4px;"></td><td>Raspberry Pi 3 Model B+</td>
 </tr>
 <tr><td>
-<img height="24px" src="https://user-images.githubusercontent.com/64097541/112806684-aef84d80-9094-11eb-8d63-88fa896caf72.png" alt="raspberrypi3-64" style="max-width: 100%; margin: 0px 4px;"></td><td>Raspberry Pi 3 Model B+ (using 64bit OS)</td>
+<img height="24px" src="https://user-images.githubusercontent.com/64097541/112806684-aef84d80-9094-11eb-8d63-88fa896caf72.png" alt="raspberrypi3-64" style="max-width: 100%; margin: 0px 4px;"></td><td>Raspberry Pi 3 Model B+ (using 64bit balenaOS)</td>
 </tr>
 <tr><td>
 <img height="24px" src="https://files.balena-cloud.com/images/raspberrypi4-64/2.65.0%2Brev1.prod/logo.svg" alt="raspberrypi4-64" style="max-width: 100%; margin: 0px 4px;"></td><td>Raspberry Pi 4 Model B</td>

@@ -1,7 +1,7 @@
 name: "Pneumonia Detection"
 type: "sw.application"
 description: "Real-time Pneumonia Detection by scanning X-Rays using Computer Vision on a Raspberry Pi."
-flletcta: Build a Pneumonia Detector under $100
+flletcta: Real-time Pneumonia Detector under $100
 post-provisioning: >-
   ## Usage instructions
   

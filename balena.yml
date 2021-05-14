@@ -1,6 +1,11 @@
 name: "Pneumonia Detection"
 type: "sw.application"
 description: "Real-time Pneumonia Detection by scanning X-Rays using Computer Vision on a Raspberry Pi."
+flletcta: Build a Pneumonia Detector under $100
+post-provisioning: >-
+  ## Usage instructions
+  
+  Once the device joins the fleet your can access the live webpage view using the device's local IP address or using the Public IP Address given by balena dashboard.
 assets:
   repository:
     type: "blob.asset"

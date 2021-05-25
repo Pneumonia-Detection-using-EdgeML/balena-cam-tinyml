@@ -44,6 +44,11 @@ Click on the *deploy-with-balena* button as given below, which will help you to 
 
 [![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Pneumonia-Detection-using-EdgeML/pneumonia-detection-balenaCAM)
 
+You can also push the source code to your balenaCloud application through your local machine as shown below.
+
+![carbon](https://user-images.githubusercontent.com/64097541/119504634-ca788f80-bd89-11eb-84f8-61afdb396c61.png)
+
+
 ### Sign up to balenaCloud
 
 If you don't have a balenaCloud account, first thing you'll need to do is [sign up for a balenaCloud account](https://dashboard.balena-cloud.com/signup). If you've already got a Github or Google account you can use that to log in and bypass the signup process on the balenaCloud.
